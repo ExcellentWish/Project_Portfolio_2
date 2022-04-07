@@ -9,9 +9,11 @@ header div {
 
 }
 
-footer div{
+footer {
     background-color: blue;
-    max-width: fit-content;
+    padding: 60px;
+    position: relative;
+    
     
 }
 
